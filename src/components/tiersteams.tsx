@@ -1,4 +1,3 @@
-import Cloud from '../assets/teams/c9.png'
 import Vit from '../assets/teams/vit.png'
 import Navi from '../assets/teams/natus.png'
 import Virtus from '../assets/teams/virtus.png'
@@ -6,7 +5,6 @@ import Heroic from '../assets/teams/heroic.png'
 import Faze from '../assets/teams/faze.png'
 import Spirit from '../assets/teams/Spirit.png'
 import Nip from '../assets/teams/nip.png'
-import Liq from '../assets/teams/liquid.png'
 import Ast from '../assets/teams/astr.png'
 
 export function TierSteams() {
