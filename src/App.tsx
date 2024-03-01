@@ -5,7 +5,8 @@ import { Header } from './components/header'
 import { Main } from './components/main'
 import { News } from './components/news'
 import { Pro } from './components/projects'
-import { Skills } from './components/skills'
+import { Southteams } from './components/southteams'
+import { TierSteams } from './components/tiersteams'
 import './index.css'
 
 export default function App() {
@@ -16,7 +17,8 @@ export default function App() {
       <Header/>
       <News/>
       <Main/>
-      <Skills/>
+      <Southteams/>
+      <TierSteams/>
       <Pro/>
       <Contact/>
 
