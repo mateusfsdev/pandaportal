@@ -12,16 +12,16 @@ export function Southteams() {
     <div className='
     bg-stone-800 flex items-center rounded-md justify-around  mx-4  h-[240px]'>
       
-      <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+      <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center   m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
         <img
-        className='w-[70px] m-4 hover:transform hover:scale-125'
+        className='w-[70px] m-4 hover:transform hover:scale-125 '
         src={Los} 
         />
       </div>
 
       <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>  
         <img
-        className='w-10 m-4 hover:transform hover:scale-125'
+        className='w-10 m-6 hover:transform hover:scale-125'
         src={Case} 
         />
        </div>
@@ -57,14 +57,14 @@ export function Southteams() {
   
       <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
         <img
-        className='w-[60px] m-4 hover:transform hover:scale-125'
+        className='w-[50px] m-4 hover:transform hover:scale-125'
         src={Liq}
         />
       </div>
 
       <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
         <img
-        className='w-[60px] m-4 hover:transform hover:scale-125'
+        className='w-[50px] m-4 hover:transform hover:scale-125'
         src={Cloud} 
         />
       </div>

@@ -14,7 +14,7 @@ export function TierSteams() {
     
     <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
     <img
-   className='w-[70px] m-4 hover:transform hover:scale-125'
+   className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Nip} alt=""
        />
       </div>
@@ -45,7 +45,7 @@ export function TierSteams() {
     
     <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
     <img
-  className='w-[70px] m-4 hover:transform hover:scale-125'
+  className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Virtus} alt=""
        />
       </div>
@@ -65,7 +65,7 @@ export function TierSteams() {
       </div>
     <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
     <img
-  className='w-[70px] m-4 hover:transform hover:scale-125'
+  className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Ast} alt=""
        />
       </div>
