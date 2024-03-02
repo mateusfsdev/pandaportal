@@ -10,16 +10,16 @@ import Ast from '../assets/teams/astr.png'
 export function TierSteams() {
   return(
     <div className='
-    bg-stone-800 flex items-center rounded-md justify-between  mx-4  h-[240px]'>
+    bg-stone-800 flex items-center rounded-md justify-between  mx-4  h-[180px]'>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
     <img
    className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Nip} alt=""
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
 
     <img
      className='w-[70px] m-4 hover:transform hover:scale-125'
@@ -27,7 +27,7 @@ export function TierSteams() {
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
 
     <img
   className='w-[70px] m-4 hover:transform hover:scale-125'
@@ -35,7 +35,7 @@ export function TierSteams() {
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
 
     <img
   className='w-[70px] m-4 hover:transform hover:scale-125'
@@ -43,27 +43,27 @@ export function TierSteams() {
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
     <img
   className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Virtus} alt=""
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
     <img
-   className='w-[70px] m-4 hover:transform hover:scale-125'
+   className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Navi} alt=""
        />
       </div>
     
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
     <img
   className='w-[70px] m-4 hover:transform hover:scale-125'
        src={Vit} alt=""
        />
       </div>
-    <div className='flex ring-transparent hover:bg-stone-700/40 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[200px] justify-center'>
+    <div className='flex ring-transparent hover:bg-purple-500/10 flex-col items-center  m-2 w-[360x] bg-stone-700/20 rounded-lg h-[120px] justify-center'>
     <img
   className='w-[60px] m-4 hover:transform hover:scale-125'
        src={Ast} alt=""

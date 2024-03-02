@@ -5,7 +5,7 @@ import Search from '../assets/camp.png'
 import About from '../assets/about.png'
 
 
-export function News() {
+export function Menu() {
   return(
     <div className='bg-stone-800 flex  rounded-md justify-center items-center  mx-4  h-[380px]'>
 
