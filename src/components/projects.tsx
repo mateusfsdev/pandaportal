@@ -14,7 +14,7 @@ export function Pro() {
 
       </div>
       <h2 className="text-center text-gray-200">saiba quem esta tramsmitindo as partidas {' '}
-      <a target="_blank" className="text-gray-300 font-bold underline" href="https://twitch.tv/gaules">aqui!</a> 🎬📽</h2>
+      <a target="_blank" className="text-purple-400 font-bold underline" href="https://twitch.tv/gaules">aqui!</a> 🎬📽</h2>
     </div>
   </div>
   )
