@@ -16,12 +16,12 @@ export default function App() {
     <div
     className='w-full h-vh bg-stone-900 flex flex-col gap-4  justify-between'>
       <Header/>
+      <Pro/>
       <Menu/>
       <Southteams/>
       <Main/>
       <TierSteams/>
       <Stats/>
-      <Pro/>
       <Contact/>
 
       <Fotter/>

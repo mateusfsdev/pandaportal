@@ -1,5 +1,5 @@
 import { Aside } from "./forum";
-import { About } from "./about";
+import { About } from "./craque";
 
 export function Main() {
   return (

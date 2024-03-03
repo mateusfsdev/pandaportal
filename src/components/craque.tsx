@@ -6,7 +6,7 @@ export function About(){
       <div className='items-center justify-center'>
         <h2 className=" text-purple-500 m-4  text-center font-bold">Craque da galera </h2>
       <div>
-        <img src={Craque} alt="" className=' rounded-lg m-4 w-[560px]'/>
+        <img src={Craque} alt="" className='border-purple-600 border-4 rounded-lg m-4 w-[560px]'/>
       </div>
       <div className='justify-ml-8'>
         <h2 className='text-purple-500  text-center  text-3xl font-bold'>Gabriel 'fallen' toledo</h2>
